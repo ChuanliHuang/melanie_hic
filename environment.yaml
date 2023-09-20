@@ -1,0 +1,8 @@
+channels:
+ - bioconda
+ - conda-forge
+dependencies:
+ - cooltools=0.5.4
+ - jupyter
+ - ipykernel
+ - hicexplorer=3.7.2
